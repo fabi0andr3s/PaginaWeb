@@ -1,0 +1,155 @@
+
+
+#Contenidos{
+	width: 1000px;
+	height: 250px;
+	margin: auto;
+	position: center;
+	background-image: url(../images/logo.jpg);
+	background-repeat: no-repeat;
+	background-size: 1050px;
+	border-radius: 15px;
+}
+
+
+body{
+	background-image: url(../images/images.jpg);
+	background-repeat: repeat-y;
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Candal', sans-serif;
+	font-size: 40px;
+	color: green;
+	margin-left: 100px;
+}
+
+h2{
+	font-family: 'Lobster Two', cursive;
+	font-size: 30px;
+	color: white;
+	border: solid;
+	border-radius: 10px;
+	text-align: center;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	color: white;
+	text-align: left;
+}
+
+
+
+header{
+	width: 1000px;
+	height: 180px;
+}
+
+
+nav{
+	width: 1000px;
+	height: 45px;
+}
+
+
+ul{
+	width: 800px;
+	margin: auto;
+	padding-top: 7px;
+}
+
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	margin: 5px;
+	background-color: green;
+	border-radius: 7px;
+	box-shadow: 0.0 2px black inset;
+}
+
+
+
+img{
+	width: 900px;
+	height: auto;
+}
+
+
+
+p{
+	padding: 10px;
+	font-size: 20px;
+	color: white;
+	text-align: justify;
+}
+
+
+footer{
+	width: 1000px;
+	height: 35px;
+	border-radius: 10px;
+	font-size: 15px;
+	color: black;
+	background-color: white;
+	text-align: center;
+}
+
+
+
+
+
+
+
+.ancho_menu_home{width: 900px;}
+
+.menu:link{padding-top: 4px; color: black; text-decoration: none;}
+.menu:visited{padding-top: 4px; color: black; text-decoration: none;}
+.menu:hover{padding-top: 4px; color: black; text-decoration: none;}
+.menu:active{padding-top: 4px; color: black; text-decoration: none;}
+
+
+
+
+.social{
+	background-color: white;
+	width: 900px;
+	height: 160px;
+	border-radius: 35%;
+}
+
+.social li{
+	margin-top: 15px;
+	list-style-type: none;
+	width: 100px;
+	height: 100px;
+	margin-left: 70px;
+}
+
+.social img{
+	width: 100px;
+	height: 100px;
+}
+
+
+
+.correo li{
+	background-color: transparent;
+	box-shadow: none;
+	list-style-type: circle;
+	color: white;
+	float: none;
+}
+
+
+
+.correo a{
+	color: white;
+	font-size: 20px;
+}
+
+
